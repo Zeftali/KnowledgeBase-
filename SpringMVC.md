@@ -1,9 +1,9 @@
 #Spring MVC 
 
 ##Spring MVC Architecture 
-> A Java framework used to build web applications. 
-> Follows Model-View-Controller (MVC) design pattern. 
-> Implements basic features of a core spring framework such as Inversion Control and Dependency Injection.
+- A Java framework used to build web applications. 
+- Follows Model-View-Controller (MVC) design pattern. 
+- Implements basic features of a core spring framework such as Inversion Control and Dependency Injection.
 
 #Spring Web MVC 
 > Model - Contains the data of the aplplication. Can be a single object or collection of objects. 
