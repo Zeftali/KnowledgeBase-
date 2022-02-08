@@ -25,5 +25,8 @@
 - Reusable business code - Rather than creating new objects, it allows us to use the existing business objects.
 - Rapid development - Spring MVC facilitates fast and parallel development.
 
+## Inversion of Control and Dependency Injection 
+- 
+
 # Links 
 - https://www.javatpoint.com/spring-mvc-tutorial#:~:text=A%20Spring%20MVC%20is%20a,Inversion%20of%20Control%2C%20Dependency%20Injection.
